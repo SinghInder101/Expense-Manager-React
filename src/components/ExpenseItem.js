@@ -9,7 +9,7 @@ function ExpenseItem() {
             <div>{}</div>
             <div className="expense-item__description">
             <h2>{expenseTitle}</h2>
-            <div className="expense-item__price">2973.</div>
+            <div className="expense-item__price">2973</div>
             </div>
         </div>
     )
